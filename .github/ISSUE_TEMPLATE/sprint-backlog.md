@@ -13,7 +13,7 @@ assignees: ''
 
 ## Tasks
 
--[] Item1
+-[ ] Item1
 
 ## Reference
 - [Link text](Link addr)
